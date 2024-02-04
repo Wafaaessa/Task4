@@ -1,0 +1,37 @@
+body{
+  background-color:#545454!important;
+  font-family: "Poppins", sans-serif;
+
+ }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ul {
+  list-style-type: none;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+}
+li:hover{
+color: darkgoldenrod;
+}
+h1{
+  border-radius: 50px;
+  
+}
+.details{
+  font-size: 20px;
+color: white;
+}
+span{
+  color: greenyellow;
+  font-weight: bolder;
+}
+.load{
+  font-size: 45px;
+  margin-top: 10%;
+  /* text-align: center; */
+}
